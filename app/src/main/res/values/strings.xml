@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="tittle_onDisplay">Em Exibição</string>
+    <string name="tittle_coming">Em Breve</string>
+    <string name="tittle_morePopular">Mais Populares</string>
+    <string name="tittle_best_movies">Melhores Avaliados</string>
+    <string name="label_more">Mais Como Este</string>
+    <string name="label_sinopse">Sinopse</string>
+    <string name="label_coment_rios">Comentários</string>
+</resources>
