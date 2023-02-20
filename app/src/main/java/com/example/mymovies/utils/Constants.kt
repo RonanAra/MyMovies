@@ -1,4 +1,4 @@
-package com.example.mymovies.presentation.utils
+package com.example.mymovies.utils
 
 object Constants {
     const val API_TOKEN_KEY = "api_key"

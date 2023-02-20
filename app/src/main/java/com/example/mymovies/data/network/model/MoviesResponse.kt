@@ -9,6 +9,6 @@ data class MoviesResponse(
     val image: String,
 ) {
     fun toMovieModel(): MovieListModel {
-        return MovieListModel(image = image)
+        return MovieListModel(imageUrl = image)
     }
 }

@@ -27,6 +27,7 @@
 
     <style name="StyleRecyclerView">
         <item name="android:layout_marginStart">21sp</item>
+        <item name="android:orientation">horizontal</item>
     </style>
 
     <style name="TextStyleDefault">

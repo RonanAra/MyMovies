@@ -6,14 +6,14 @@ import retrofit2.http.GET
 interface ApiClient {
 
     @GET("movie/now_playing")
-    suspend fun getNowPlayingList(): List<ListResponse>
+    suspend fun getNowPlayingList(): ListResponse
 
     @GET("movie/top_rated")
-    suspend fun getTopRatedList(): List<ListResponse>
+    suspend fun getTopRatedList(): ListResponse
 
     @GET("movie/upcoming")
-    suspend fun getUpcomingList(): List<ListResponse>
+    suspend fun getUpcomingList(): ListResponse
 
     @GET("movie/popular")
-    suspend fun getPopularList(): List<ListResponse>
+    suspend fun getPopularList(): ListResponse
 }
